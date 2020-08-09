@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://haye.cc/2020/08/09/ECS%E4%B8%83%E5%A4%A9%E8%AE%AD%E7%BB%83%E8%90%A5%20Day4/</loc>
+    
+    <lastmod>2020-08-09</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://haye.cc/2020/08/08/ECS%E4%B8%83%E5%A4%A9%E8%AE%AD%E7%BB%83%E8%90%A5%20Day3/</loc>
     
     <lastmod>2020-08-08</lastmod>
@@ -46,7 +53,7 @@
 
   <url>
     <loc>https://haye.cc/</loc>
-    <lastmod>2020-08-08</lastmod>
+    <lastmod>2020-08-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -54,21 +61,21 @@
   
   <url>
     <loc>https://haye.cc/tags/Aliyun/</loc>
-    <lastmod>2020-08-08</lastmod>
+    <lastmod>2020-08-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://haye.cc/tags/ECS%E4%B8%83%E5%A4%A9%E8%AE%AD%E7%BB%83%E8%90%A5/</loc>
-    <lastmod>2020-08-08</lastmod>
+    <lastmod>2020-08-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://haye.cc/tags/Raspberry/</loc>
-    <lastmod>2020-08-08</lastmod>
+    <lastmod>2020-08-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -77,14 +84,14 @@
   
   <url>
     <loc>https://haye.cc/categories/2020%E5%B9%B48%E6%9C%88/</loc>
-    <lastmod>2020-08-08</lastmod>
+    <lastmod>2020-08-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://haye.cc/categories/2020%E5%B9%B47%E6%9C%88/</loc>
-    <lastmod>2020-08-08</lastmod>
+    <lastmod>2020-08-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
