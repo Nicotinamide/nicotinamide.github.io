@@ -4,7 +4,14 @@
   <url>
     <loc>https://haye.cc/2020/08/15/%E6%A0%91%E8%8E%93%E6%B4%BE%E5%AE%89%E8%A3%85openwrt/</loc>
     
-    <lastmod>2020-08-18</lastmod>
+    <lastmod>2020-08-23</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://haye.cc/2020/08/23/openwrt%E5%87%BA%E7%8E%B0bad%20address/</loc>
+    
+    <lastmod>2020-08-23</lastmod>
     
   </url>
   
@@ -81,7 +88,7 @@
 
   <url>
     <loc>https://haye.cc/</loc>
-    <lastmod>2020-08-18</lastmod>
+    <lastmod>2020-08-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -89,28 +96,28 @@
   
   <url>
     <loc>https://haye.cc/tags/Aliyun/</loc>
-    <lastmod>2020-08-18</lastmod>
+    <lastmod>2020-08-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://haye.cc/tags/ECS%E4%B8%83%E5%A4%A9%E8%AE%AD%E7%BB%83%E8%90%A5/</loc>
-    <lastmod>2020-08-18</lastmod>
+    <lastmod>2020-08-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://haye.cc/tags/Raspberry-Pi-4/</loc>
-    <lastmod>2020-08-18</lastmod>
+    <lastmod>2020-08-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://haye.cc/tags/Ubuntu-18-04/</loc>
-    <lastmod>2020-08-18</lastmod>
+    <lastmod>2020-08-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -119,14 +126,14 @@
   
   <url>
     <loc>https://haye.cc/categories/2020%E5%B9%B48%E6%9C%88/</loc>
-    <lastmod>2020-08-18</lastmod>
+    <lastmod>2020-08-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://haye.cc/categories/2020%E5%B9%B47%E6%9C%88/</loc>
-    <lastmod>2020-08-18</lastmod>
+    <lastmod>2020-08-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
